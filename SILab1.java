@@ -12,7 +12,7 @@ public class SILab1 {
         }
         return result;
     }
-
+/*greskata e popravena vo bug3**/
     private static int sumEvenNumbers(List<Integer> list) {
         int sum = 0;
         for (Integer el : list) {
