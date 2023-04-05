@@ -3,7 +3,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SILab1 {
-    /*popravena e greskata vo bug2*/
+<<<<<<< HEAD
+    /*ova e master*/
+=======
+>>>>>>> d0bdf57830e1f5a60d737f8a48f7fc63bcc4659b
     public static List<Integer> filterOddNumbers(List<Integer> list) {
         List<Integer> result = new ArrayList<>();
         for (Integer el : list) {
